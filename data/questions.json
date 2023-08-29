@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the following return-type cannot be used for a function in C",
+    "answer": "none of the mentioned",
+    "choices": [
+      "char *",
+      "struct",
+      "void",
+      "none of the mentioned"
+    ]
+  },
+  {
+    "question": "What is the sizeof(char) in a 32-bit C compiler",
+    "answer": "1 Byte",
+    "choices": [
+      "1 bit",
+      "2 bits",
+      "1 Byte",
+      "2 Bytes"
+    ]
+  },
+  {
+    "question": "All keywords in C are in",
+    "answer": "LowerCase letters",
+    "choices": [
+      "LowerCase letters",
+      "UpperCase letters",
+      "CamelCase letters",
+      "None of the mentioned"
+    ]
+  },
+  {
+    "question": "Which of the following is not a valid storage class in C",
+    "answer": "package",
+    "choices": [
+      "auto",
+      "static",
+      "register",
+      "package"
+    ]
+  },
+  {
+    "question": "What is the output of the following C code?\n\n#include <stdio.h>\n\nint main() {\n  int arr[5] = {1, 2, 3, 4, 5};\n  printf(\"%d\", *(arr + 2));\n  return 0;\n}",
+    "answer": "3",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Which of the following is a valid way to comment out multiple lines of code in C?",
+    "answer": "/* ... */",
+    "choices": [
+      "// ... //",
+      "/* ... */",
+      "''' ... '''",
+      "<<< ... >>>"
+    ]
+  },
+  {
+    "question": "What is the result of the expression: 8 % 3",
+    "answer": "2",
+    "choices": [
+      "2",
+      "3",
+      "5",
+      "8"
+    ]
+  },
+  {
+    "question": "Which of the following is not a valid data type in C?",
+    "answer": "boolean",
+    "choices": [
+      "int",
+      "float",
+      "char",
+      "boolean"
+    ]
+  },
+  {
+    "question": "What is the output of the following C code?#include <stdio.h>int main() {  int x = 10;  if (x > 5)    printf(\"Hello\");  printf(\" World!\");  return 0;}",
+    "answer": "Hello World!",
+    "choices": [
+      "Hello",
+      "World!",
+      "Hello World!",
+      "No output"
+    ]
+  },
+  {
+    "question": "Which of the following is not a valid data type in C?",
+    "answer": "boolean",
+    "choices": [
+      "int",
+      "float",
+      "char",
+      "boolean"
+    ]
+  }
+]
